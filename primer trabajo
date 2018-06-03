@@ -1,6 +1,0 @@
-# githubicc
-Trabajo de cachimbos de la utec
-frase=str(input("Ingrese la frase: "))
-print(len(frase))
-
-
